@@ -1,9 +1,11 @@
 #Inside
 ===========
-*Register
+* **Register**
 
-*Facebook to login
+* **Facebook To Login**
 
-*Control with jquery
+* **Control With Jquery**
 
-*Bassic Web Chat
+* **Bassic Web Chat**
+
+* **Bassic Rank System**
