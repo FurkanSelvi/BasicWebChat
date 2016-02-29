@@ -16,7 +16,7 @@ use Facebook\HttpClients\FacebookHttpable;
 // init app with app id and secret
 FacebookSession::setDefaultApplication( 'app-id','app-secret' );
 // login helper with redirect_uri
-    $helper = new FacebookRedirectLoginHelper('http://sitem.lkl/chat/Face/fbconfig.php');
+    $helper = new FacebookRedirectLoginHelper('This File URL');
     $_scope = array('email','user_likes');
 try {
   $session = $helper->getSessionFromRedirect();
