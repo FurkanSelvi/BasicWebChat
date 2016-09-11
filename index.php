@@ -45,7 +45,7 @@ else{
     <link href="dist/css/skins/_all-skins.min.css" rel="stylesheet" type="text/css" />
     <title>Sohbet</title>
     <script src="jQuery/jQuery-2.1.3.min.js"></script>
-    <script src="dist/js/chatSettings.js"></script>
+    <script src="chatSettings.js"></script>
     <style type="text/css">
         body{
             background: aqua;
