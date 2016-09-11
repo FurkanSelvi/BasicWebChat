@@ -33,7 +33,7 @@
     </div>
 
     <div class="register-box-body">
-        <p class="login-box-msg">Üyeliğim Var.</p>
+        <p class="login-box-msg">Zaten üyeyim.</p>
         <form action="" method="post">
             <div class="form-group has-feedback">
                 <input type="text" id="issoy" class="form-control" placeholder="İsim Soyisim"/>
